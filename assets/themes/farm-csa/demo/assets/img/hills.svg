@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="xMidYMax slice"><defs><pattern id="d" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="2" fill="#d4432a"/></pattern><pattern id="r" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-12)"><rect width="18" height="7" fill="#d4432a"/></pattern></defs>
+<circle cx="1110" cy="104" r="66" fill="#d4432a"/><circle cx="1110" cy="104" r="90" fill="none" stroke="#d4432a" stroke-width="4" stroke-dasharray="6 10"/>
+<path fill="url(#d)" d="M0 196C200 146 380 136 560 172C720 204 860 146 1040 146C1200 146 1340 172 1440 188V320H0Z"/>
+<g style="mix-blend-mode:multiply" transform="translate(4 3)">
+<path fill="#2d6a3e" d="M0 232C180 192 360 186 540 214C700 240 860 226 1020 200C1200 174 1340 194 1440 214V320H0Z"/>
+<g fill="#2d6a3e"><circle cx="470" cy="188" r="20"/><circle cx="508" cy="178" r="26"/><circle cx="548" cy="192" r="16"/><circle cx="1210" cy="172" r="18"/><circle cx="1244" cy="164" r="24"/></g></g>
+<g style="mix-blend-mode:multiply"><path fill="url(#r)" d="M760 320C820 262 960 228 1120 218C1260 210 1380 224 1440 234V320Z"/><path fill="url(#d)" d="M0 320V270C90 250 200 248 300 268C250 286 200 306 180 320Z"/></g>
+<g fill="#d4432a"><path d="M292 214L326 188L360 214V252H292Z"/><rect x="364" y="200" width="16" height="52"/><path d="M364 202C364 186 380 186 380 202"/></g>
+<path fill="#f7f0de" d="M314 252V226H338V252Z"/><path d="M314 226L338 252M338 226L314 252" stroke="#d4432a" stroke-width="3"/></svg>

@@ -1,0 +1,26 @@
+{
+  "brand": "dreamr",
+  "name": "Dreamr",
+  "environment": "production",
+  "version": "0.2.1",
+  "timestamp": "2026-11-06T07:37:53.791Z",
+  "buildTime": "2026-11-06T07:37:53.791Z",
+  "cacheBreaker": 1793950673791,
+  "theme": "classy",
+  "packages": {
+    "@omega.js/web": "0.56.0",
+    "@omega.js/client": "0.56.0",
+    "firebase": "12.14.0",
+    "node": "24.22.2"
+  },
+  "repo": {
+    "user": "dreamr-design",
+    "name": "dreamr-omega"
+  },
+  "commit": "f66ae44",
+  "assets": {
+    "js": "/assets/js/main-KTUAYTOV.js",
+    "css": "/assets/css/main-7d9fa781.css"
+  },
+  "firebase": null
+}

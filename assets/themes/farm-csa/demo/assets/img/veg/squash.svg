@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><defs><pattern id="d" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.3" fill="#2d6a3e"/></pattern><pattern id="k" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="1.5" fill="#f7f0de"/></pattern></defs><clipPath id="c"><path d="M30 48C44 32 80 30 98 42C112 52 112 76 98 86C80 98 44 96 30 82C20 72 20 58 30 48Z"/></clipPath>
+<path fill="#f7f0de" d="M30 48C44 32 80 30 98 42C112 52 112 76 98 86C80 98 44 96 30 82C20 72 20 58 30 48Z"/>
+<g clip-path="url(#c)" fill="#d4432a"><circle cx="40" cy="60" r="1.6"/><circle cx="52" cy="46" r="1.6"/><circle cx="66" cy="84" r="1.6"/><circle cx="84" cy="52" r="1.6"/><circle cx="96" cy="72" r="1.6"/><circle cx="46" cy="78" r="1.6"/><circle cx="76" cy="66" r="1.6"/></g>
+<g style="mix-blend-mode:multiply" transform="translate(2 1.5)"><g clip-path="url(#c)" fill="none" stroke="#2d6a3e" stroke-width="7"><path d="M24 64C50 58 80 58 110 64"/><path d="M28 50C54 42 84 42 106 50"/><path d="M28 78C54 86 84 86 106 78"/></g>
+<path fill="none" stroke="#2d6a3e" stroke-width="3.5" d="M30 48C44 32 80 30 98 42C112 52 112 76 98 86C80 98 44 96 30 82C20 72 20 58 30 48Z"/>
+<path fill="#2d6a3e" d="M18 58L28 56L30 66L20 70L10 66L12 58Z"/></g></svg>

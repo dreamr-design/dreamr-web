@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../../../../node_modules/@omega.js/web/core/js/pages/test/libraries/error/index.js", "omega-boot:/home/runner/work/dreamr-omega/dreamr-omega/node_modules/@omega.js/web/core/js/pages/test/libraries/error/index.js"],
+  "sourcesContent": ["/**\n * /test/libraries/error: the button signs in with bad credentials, so the\n * client's auth error path has a real failure to report.\n */\n\nexport default ({ omega }) => {\n  const $trigger = document.getElementById('trigger-error');\n  if (!$trigger) {\n    return;\n  }\n\n  $trigger.addEventListener('click', () => {\n    omega.auth.signInWithEmailAndPassword('invalid@example.com', 'wrongpassword');\n  });\n};\n", "import { bootPage } from \"/home/runner/work/dreamr-omega/dreamr-omega/node_modules/@omega.js/web/runtime/boot.js\";\nimport mod from \"/home/runner/work/dreamr-omega/dreamr-omega/node_modules/@omega.js/web/core/js/pages/test/libraries/error/index.js\";\nbootPage(mod);"],
+  "mappings": "oXAKA,IAAOA,EAAQ,CAAC,CAAE,MAAAC,CAAM,IAAM,CAC5B,IAAMC,EAAW,SAAS,eAAe,eAAe,EACnDA,GAILA,EAAS,iBAAiB,QAAS,IAAM,CACvCD,EAAM,KAAK,2BAA2B,sBAAuB,eAAe,CAC9E,CAAC,CACH,ECZAE,EAASC,CAAG",
+  "names": ["error_default", "omega", "$trigger", "bootPage", "error_default"]
+}

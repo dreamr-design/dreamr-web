@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../../../../node_modules/@omega.js/web/core/js/pages/test/libraries/layers/index.js", "omega-boot:/home/runner/work/dreamr-omega/dreamr-omega/node_modules/@omega.js/web/core/js/pages/test/libraries/layers/index.js"],
+  "sourcesContent": ["/**\n * /test \u2014 Global (framework default) page JS \u2014 the first layer.\n * Turns the \"js-global\" dot green to prove this layer loaded + ran.\n */\n\nimport { createLogger } from '__main_assets__/js/libs/logger.js';\n\nconst logger = createLogger('test:layers');\n\nexport default ({ omega, options }) => {\n  const dot = document.querySelector('.layer-dot[data-layer=\"js-global\"]');\n  if (dot) {\n    dot.style.background = '#30a46c'; // green\n  }\n  logger.log('global JS ran \u2192 js-global dot green');\n};\n", "import { bootPage } from \"/home/runner/work/dreamr-omega/dreamr-omega/node_modules/@omega.js/web/runtime/boot.js\";\nimport mod from \"/home/runner/work/dreamr-omega/dreamr-omega/node_modules/@omega.js/web/core/js/pages/test/libraries/layers/index.js\";\nbootPage(mod);"],
+  "mappings": "gYAOA,IAAMA,EAASC,EAAa,aAAa,EAElCC,EAAQ,CAAC,CAAE,MAAAC,EAAO,QAAAC,CAAQ,IAAM,CACrC,IAAMC,EAAM,SAAS,cAAc,oCAAoC,EACnEA,IACFA,EAAI,MAAM,WAAa,WAEzBL,EAAO,IAAI,0CAAqC,CAClD,ECbAM,EAASC,CAAG",
+  "names": ["logger", "createLogger", "layers_default", "omega", "options", "dot", "bootPage", "layers_default"]
+}

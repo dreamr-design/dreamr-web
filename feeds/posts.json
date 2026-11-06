@@ -1,0 +1,12 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Dreamr Blog",
+  "home_page_url": "https://dreamr-design.github.io/dreamr-web/blog",
+  "feed_url": "https://dreamr-design.github.io/dreamr-web/feeds/posts.json",
+  "description": "Dreamlike website themes, free to use and ready for Jekyll, Hugo, Eleventy and plain HTML, with forms and chat already wired in.",
+  "generator": "OMEGA (@omega.js/web)",
+  "language": "en",
+  "favicon": "https://dreamr-design.github.io/dreamr-web/assets/images/favicon/favicon-32x32.png",
+  "items": [
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["omega-boot:/home/runner/work/dreamr-omega/dreamr-omega/node_modules/@omega.js/web/core/js/pages/blog/index.js"],
+  "sourcesContent": ["import { bootPage } from \"/home/runner/work/dreamr-omega/dreamr-omega/node_modules/@omega.js/web/runtime/boot.js\";\nimport mod from \"/home/runner/work/dreamr-omega/dreamr-omega/node_modules/@omega.js/web/core/js/pages/blog/index.js\";\nbootPage(mod);"],
+  "mappings": "8ZAEAA,EAASC,CAAG",
+  "names": ["bootPage", "blog_default"]
+}

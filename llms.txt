@@ -1,0 +1,25 @@
+# Dreamr
+
+> Dreamlike website themes, free to use and ready for Jekyll, Hugo, Eleventy and plain HTML, with forms and chat already wired in.
+
+## Pages
+- [Dreamr: free website themes for HTML, Jekyll, Hugo and Eleventy](https://dreamr-design.github.io/dreamr-web/): Free website themes, ready for HTML, Jekyll, Hugo and Eleventy, with a working contact form and chat already wired in.
+- [About - Dreamr](https://dreamr-design.github.io/dreamr-web/about): Dreamr is a shelf of free website themes, made by ITW Creative Works.
+- [Alternatives - Dreamr](https://dreamr-design.github.io/dreamr-web/alternatives): Compare Dreamr to popular alternatives. See why thousands of users choose Dreamr over the competition.
+- [App Launcher - Dreamr](https://dreamr-design.github.io/dreamr-web/app): Dreamr app launcher
+- [Blog - Dreamr](https://dreamr-design.github.io/dreamr-web/blog): Stay up to date with the latest Dreamr news and best practices.
+- [Contact - Dreamr](https://dreamr-design.github.io/dreamr-web/contact): Say hello to Dreamr, a shelf of free website themes.
+- [Cookie Policy - Dreamr](https://dreamr-design.github.io/dreamr-web/cookies): This cookie policy has been compiled to better serve those who are concerned with how their personal information is being used online.
+- [Download - Dreamr](https://dreamr-design.github.io/dreamr-web/download): Dreamr is free to use on Windows, Mac & Linux. Get started for free today!
+- [Dreamr browser extension](https://dreamr-design.github.io/dreamr-web/extension): The Dreamr browser extension is free to use on Chrome, Firefox, Edge & Opera. Get started for free today!
+- [Feedback - Dreamr](https://dreamr-design.github.io/dreamr-web/feedback): Share your feedback and help us improve Dreamr.
+- [License - Dreamr](https://dreamr-design.github.io/dreamr-web/license): The licenses Dreamr themes ship under: free, credit removal, and paid for a single site or for unlimited sites.
+- [Confirmation - Dreamr](https://dreamr-design.github.io/dreamr-web/payment/confirmation): Your order has been confirmed on Dreamr.
+- [Pricing - Dreamr](https://dreamr-design.github.io/dreamr-web/pricing): Dreamr Premium plans grant you access to more features and support. Get started for free today!
+- [Privacy Policy - Dreamr](https://dreamr-design.github.io/dreamr-web/privacy): This privacy policy has been compiled to better serve those who are concerned with how their personal information is being used online.
+- [System Status - Dreamr](https://dreamr-design.github.io/dreamr-web/status): Check the current status and uptime of Dreamr services. View real-time system health and incident reports.
+- [Team - Dreamr](https://dreamr-design.github.io/dreamr-web/team): Meet the team behind Dreamr.
+- [Terms Of Service - Dreamr](https://dreamr-design.github.io/dreamr-web/terms): By accessing and using our products and services, you agree to comply with the Terms of Use listed here.
+- [Browse free website themes - Dreamr](https://dreamr-design.github.io/dreamr-web/themes): Browse every theme by category, color or name. Each one is ready for Jekyll, Hugo, Eleventy and plain HTML, with forms and chat already wired in.
+- [Bramblecut, a Food & Drink theme - Dreamr](https://dreamr-design.github.io/dreamr-web/themes/farm-csa): Bramblecut Farm, a fictional five-person certified organic vegetable farm on 22 acres of Driftless hillside near Viroqua, Wisconsin. It sells a twenty-w...
+- [Updates - Dreamr](https://dreamr-design.github.io/dreamr-web/updates): View release notes and version history for Dreamr. Stay up to date with the latest features and improvements.

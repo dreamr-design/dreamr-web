@@ -1,0 +1,2 @@
+import{b as i,f as o}from"./chunk-EYOD5SBO.js";import{e as u}from"./chunk-RJIKTNRM.js";var e=u(i());function r(){return o.config?.payment||{}}function p(){return r().providers||{}}function d(){let t=r().capabilities;if(!t)throw new Error("payment.capabilities is missing from the build config: the checkout cannot tell which provider sells what");return t}function c(){return r().products||[]}function l(t){return c().find(n=>n.id===t)||null}export{e as a,r as b,p as c,d,c as e,l as f};
+//# sourceMappingURL=chunk-NBIWMBHO.js.map

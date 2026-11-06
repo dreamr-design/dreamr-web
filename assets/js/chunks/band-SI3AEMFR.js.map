@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../node_modules/@tanstack/charts/dist/scales/band.js"],
+  "sourcesContent": ["import { createBandScale } from \"./band-kernel.js\";\nfunction scaleBand(first, second) {\n  return createBandScale(false, first, second);\n}\nexport {\n  scaleBand\n};\n"],
+  "mappings": "oEACA,SAASA,EAAUC,EAAOC,EAAQ,CAChC,OAAOC,EAAgB,GAAOF,EAAOC,CAAM,CAC7C",
+  "names": ["scaleBand", "first", "second", "createBandScale"]
+}

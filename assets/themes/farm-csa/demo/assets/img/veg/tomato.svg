@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><defs><pattern id="d" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.3" fill="#2d6a3e"/></pattern><pattern id="k" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="1.5" fill="#f7f0de"/></pattern></defs><clipPath id="c"><path d="M60 38C85 36 103 50 102 72C101 94 83 105 60 105C37 105 19 94 18 72C17 50 35 36 60 38Z"/></clipPath>
+<path fill="#d4432a" d="M60 38C85 36 103 50 102 72C101 94 83 105 60 105C37 105 19 94 18 72C17 50 35 36 60 38Z"/>
+<ellipse cx="40" cy="58" rx="9" ry="5" fill="#f7f0de" transform="rotate(-32 40 58)"/>
+<g style="mix-blend-mode:multiply" transform="translate(2 1.5)"><g clip-path="url(#c)"><circle cx="86" cy="96" r="38" fill="url(#d)"/></g>
+<path fill="none" stroke="#2d6a3e" stroke-width="3" stroke-linecap="round" d="M44 44C38 56 38 70 42 82M76 44C82 56 82 70 78 82"/>
+<path fill="#2d6a3e" d="M60 42L50 30L57 34L60 22L63 34L71 28L66 38L80 36L68 44L72 50L60 46L48 51L52 44L40 37L54 38Z"/>
+<rect x="57.5" y="12" width="5" height="16" rx="2.5" fill="#2d6a3e"/></g></svg>

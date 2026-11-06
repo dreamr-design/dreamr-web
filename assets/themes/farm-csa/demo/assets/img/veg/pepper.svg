@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><defs><pattern id="d" width="5" height="5" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.3" fill="#2d6a3e"/></pattern><pattern id="k" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="3.5" cy="3.5" r="1.5" fill="#f7f0de"/></pattern></defs><clipPath id="c"><path d="M36 40C46 32 74 32 84 40C98 50 100 78 90 96C84 108 72 106 66 100C62 106 56 106 52 100C46 108 32 106 28 94C20 76 22 50 36 40Z"/></clipPath>
+<path fill="#d4432a" d="M36 40C46 32 74 32 84 40C98 50 100 78 90 96C84 108 72 106 66 100C62 106 56 106 52 100C46 108 32 106 28 94C20 76 22 50 36 40Z"/>
+<path fill="#f7f0de" d="M36 54C38 48 42 46 46 46C44 56 42 68 40 78C36 72 35 62 36 54Z"/>
+<g style="mix-blend-mode:multiply" transform="translate(2 1.5)"><g clip-path="url(#c)"><circle cx="92" cy="100" r="36" fill="url(#d)"/></g>
+<path fill="none" stroke="#2d6a3e" stroke-width="3" stroke-linecap="round" d="M58 50C56 66 56 84 60 98"/>
+<path fill="#2d6a3e" d="M38 40C48 30 72 30 82 40C74 46 66 44 60 42C54 44 46 46 38 40Z"/>
+<path fill="none" stroke="#2d6a3e" stroke-width="6" stroke-linecap="round" d="M60 38C60 26 64 18 74 14"/></g></svg>

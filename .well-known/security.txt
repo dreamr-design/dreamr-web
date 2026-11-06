@@ -1,0 +1,6 @@
+Contact: mailto:support@dreamr.design
+Contact: https://dreamr-design.github.io/dreamr-web/contact
+Preferred-Languages: en
+Canonical: https://dreamr-design.github.io/dreamr-web/.well-known/security.txt
+Policy: https://dreamr-design.github.io/dreamr-web/privacy
+Expires: 2027-12-31T23:59:59.000Z

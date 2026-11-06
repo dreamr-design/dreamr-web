@@ -1,0 +1,2 @@
+import{a as r}from"./chunk-6LZDTC2F.js";import"./chunk-RJIKTNRM.js";var c=r("dev-icon-audit");function s(){let t=new Set,e=()=>{document.querySelectorAll("[data-omega-icon-missing]").forEach(o=>{let n=o.getAttribute("data-omega-icon-missing"),i=`${n}`;t.has(i)||(t.add(i),c.error(`Missing icon "${n}" \u2014 the icon set has no file for it`,o))})};e(),setTimeout(e,2500)}export{s as default};
+//# sourceMappingURL=dev-icon-audit-KY72RXTL.js.map

@@ -1,0 +1,14 @@
+/* TEAM */
+Website: Dreamr
+Site: https://dreamr-design.github.io/dreamr-web
+
+/* THANKS */
+Framework: OMEGA (@omega.js/web)
+Built with: Eleventy, Bootstrap, Font Awesome
+Hosting: Various
+
+/* SITE */
+Last update: 2026/11/06
+Standards: HTML5, CSS3, JavaScript ES6+
+Components: Eleventy, LiquidJS, SCSS, esbuild
+IDE: Visual Studio Code
